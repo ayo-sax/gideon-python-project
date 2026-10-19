@@ -1,0 +1,37 @@
+[
+    {
+        "id": "M001",
+        "name": "gideon",
+        "phone": "08143009569",
+        "email": "marymoris174@gmail.com",
+        "joined": "2026-10-12"
+    },
+    {
+        "id": "M002",
+        "name": "gabriel",
+        "phone": "07066239816",
+        "email": "zoeyuso145@gmail.com",
+        "joined": "2026-10-14"
+    },
+    {
+        "id": "M003",
+        "name": "dorcas",
+        "phone": "08062717684",
+        "email": "kuyehannah81@gmail.com",
+        "joined": "2026-10-14"
+    },
+    {
+        "id": "M004",
+        "name": "daniel",
+        "phone": "09123432126",
+        "email": "lucyjames1032@gmail.com",
+        "joined": "2026-10-15"
+    },
+    {
+        "id": "M005",
+        "name": "ghost",
+        "phone": "07066239816",
+        "email": "lucyjames1032@gmail.com",
+        "joined": "2026-10-15"
+    }
+]

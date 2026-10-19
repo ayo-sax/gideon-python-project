@@ -1,0 +1,1 @@
+requests>=2.31.0  # only needed for the optional Paystack feature

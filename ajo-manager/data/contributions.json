@@ -1,0 +1,42 @@
+[
+    {
+        "id": "C0001",
+        "member_id": "M001",
+        "cycle": 1,
+        "amount": 10000.0,
+        "date": "2026-10-12",
+        "source": "paystack",
+        "reference": "AJO-M001-C1-cf417d25",
+        "label": "Paid via Paystack - confirmed by Paystack verify API"
+    },
+    {
+        "id": "C0002",
+        "member_id": "M002",
+        "cycle": 1,
+        "amount": 10000.0,
+        "date": "2026-10-14",
+        "source": "manual",
+        "reference": null,
+        "label": "Manually recorded - not independently verified"
+    },
+    {
+        "id": "C0003",
+        "member_id": "M004",
+        "cycle": 1,
+        "amount": 20000.0,
+        "date": "2026-10-15",
+        "source": "manual",
+        "reference": null,
+        "label": "Manually recorded - not independently verified"
+    },
+    {
+        "id": "C0004",
+        "member_id": "M003",
+        "cycle": 1,
+        "amount": 50000.0,
+        "date": "2026-10-15",
+        "source": "paystack",
+        "reference": "AJO-M003-C1-f5d0860a",
+        "label": "Paid via Paystack - confirmed by Paystack verify API"
+    }
+]
